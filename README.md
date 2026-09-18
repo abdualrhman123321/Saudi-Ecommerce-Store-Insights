@@ -29,22 +29,6 @@ Power BI | Python | DAX | Power Query | Excel
 
 ---
 
-## 📊 Power BI Dashboard
-
-A four-page interactive dashboard designed to present the project's key findings clearly and professionally.
-
-### 🖼️ Cover
-<img src="Power%20Bi/Cover.png" width="100%">
-
-### 📈 Executive Overview
-<img src="Power%20Bi/Executive%20Overview.png" width="100%">
-
-### 🏷️ Category & Activity
-<img src="Power%20Bi/Category%20&%20Activity.png" width="100%">
-
-### 🌐 Digital Presence & Ratings
-<img src="Power%20Bi/Digital%20Presence%20&%20Ratings.png" width="100%">
-
 # 🔍 Key Insights
 
 🟢 **90.59%** of stores were classified as Active.
