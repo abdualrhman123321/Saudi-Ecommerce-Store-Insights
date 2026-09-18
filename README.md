@@ -28,21 +28,6 @@ Power BI | Python | DAX | Power Query | Excel
 - Relationship between Digital Presence, Activity & Ratings
 
 ---
-## 📊 Power BI Dashboard
-
-A four-page interactive dashboard designed to present the project's key findings clearly and professionally.
-
-### 🖼️ Cover
-<img src="Power Bi Dashboard/cover.png" width="100%">
-
-### 📈 Executive Overview
-<img src="Power Bi Dashboard/Executive Overview.png" width="100%">
-
-### 🏷️ Category & Activity
-<img src="Power Bi Dashboard/Category & Activity.png" width="100%">
-
-### 🌐 Digital Presence & Ratings
-<img src="Power Bi Dashboard/Digital Presence & Ratings.png" width="100%">
 
 # 🔍 Key Insights
 
@@ -75,17 +60,22 @@ The dashboard presents the key findings of the project through four interactive 
 🖼️ Cover
 Project introduction and dashboard overview.
 
-<img src="Power Bi Dashboard/Cover.png" width="100%" High="100%">
-
+<img src="Power Bi Dashboard/cover.png" width="100%">
 
 📈 Executive Overview
 A high-level summary of the main KPIs, store activity, categories, and overall ratings.
 
+<img src="Power Bi Dashboard/Executive Overview.png" width="100%">
+
 🏷️ Category & Activity
 A detailed analysis of activity rates and store distribution across business categories.
 
+<img src="Power Bi Dashboard/Category & Activity.png" width="100%">
+
 🌐 Digital Presence & Ratings
 An analysis of digital presence patterns and their observed relationship with store activity and ratings.
+
+<img src="Power Bi Dashboard/Digital Presence & Ratings.png" width="100%">
 
 ---
 
