@@ -60,22 +60,22 @@ The dashboard presents the key findings of the project through four interactive 
 🖼️ Cover
 Project introduction and dashboard overview.
 
-<img src="Power Bi Dashboard/cover.png" width="100%">
+<img src="Power Bi Dashboard/cover.png" width="50%">
 
 📈 Executive Overview
 A high-level summary of the main KPIs, store activity, categories, and overall ratings.
 
-<img src="Power Bi Dashboard/Executive Overview.png" width="100%">
+<img src="Power Bi Dashboard/Executive Overview.png" width="50%">
 
 🏷️ Category & Activity
 A detailed analysis of activity rates and store distribution across business categories.
 
-<img src="Power Bi Dashboard/Category & Activity.png" width="100%">
+<img src="Power Bi Dashboard/Category & Activity.png" width="50%">
 
 🌐 Digital Presence & Ratings
 An analysis of digital presence patterns and their observed relationship with store activity and ratings.
 
-<img src="Power Bi Dashboard/Digital Presence & Ratings.png" width="100%">
+<img src="Power Bi Dashboard/Digital Presence & Ratings.png" width="50%">
 
 ---
 
@@ -89,7 +89,7 @@ An analysis of digital presence patterns and their observed relationship with st
 
 **Raw Data → Data Quality Check → Cleaning → Analysis → DAX → Power BI → Insights**
 
-
+---
 
 # 📁 Project Structure
 
