@@ -28,6 +28,21 @@ Power BI | Python | DAX | Power Query | Excel
 - Relationship between Digital Presence, Activity & Ratings
 
 ---
+## 📊 Power BI Dashboard
+
+A four-page interactive dashboard designed to present the project's key findings clearly and professionally.
+
+### 🖼️ Cover
+<img src="Power Bi Dashboard/cover.png" width="100%">
+
+### 📈 Executive Overview
+<img src="Power Bi Dashboard/Executive Overview.png" width="100%">
+
+### 🏷️ Category & Activity
+<img src="Power Bi Dashboard/Category & Activity.png" width="100%">
+
+### 🌐 Digital Presence & Ratings
+<img src="Power Bi Dashboard/Digital Presence & Ratings.png" width="100%">
 
 # 🔍 Key Insights
 
