@@ -89,17 +89,16 @@ An analysis of digital presence patterns and their observed relationship with st
 
 **Raw Data → Data Quality Check → Cleaning → Analysis → DAX → Power BI → Insights**
 
----
+
 
 # 📁 Project Structure
 
 ```text
 📦 Saudi-Ecommerce-Store-Insights
 
- ┣ 📁 Saudi_Ecommerce Stores.csv
- ┣ 🐍 python-Data Inspection.ipynb
- ┣ 📈 powerbi-saudi-dashboard.pbix
- ┣ 📄 Project-Report ( Arabic ).pdf
- ┣ 📄 Project-Report ( English ).pdf
+ ┣ 📁 Data File
+ ┣ 🐍 Python Code
+ ┣ 📈 power bi dashboard
+ ┣ 📄 Reports
  ┗ 📖 README.md
 
