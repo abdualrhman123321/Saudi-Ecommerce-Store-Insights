@@ -60,7 +60,7 @@ The dashboard presents the key findings of the project through four interactive 
 🖼️ Cover
 Project introduction and dashboard overview.
 
-<img src="dashboard/Cover.png" width="100%">
+<img src="Power Bi Dashboard/Cover.png" width="100%">
 
 
 📈 Executive Overview
