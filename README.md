@@ -99,6 +99,6 @@ An analysis of digital presence patterns and their observed relationship with st
  ┣ 📁 Data File
  ┣ 🐍 Python Code
  ┣ 📈 power bi dashboard
- ┣ 📄 Reports
+ ┣ 📄 Report
  ┗ 📖 README.md
 
